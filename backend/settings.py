@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-iwr0ed*n-l5*xd!vt@zyjb@7qjou^&8&n%l(0+aree5roq@w1x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://chatappfrontend-lac.vercel.app/","127.0.0.1"]
 
 
 # Application definition
